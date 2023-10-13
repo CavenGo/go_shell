@@ -23,7 +23,7 @@ func Windwos() {
 	if len(args) > 0 {
 		// 读取其他参数
 		if len(args) == 1 && args[0] == "?" {
-			fmt.Println("运行godinstall不带参数自动安装curl，wget,jq工具")
+			fmt.Println("运行godinstall不带参数自动安装curl，wget,jq,wsl工具")
 			fmt.Println("winget install toolname 使用winget指定安装curl，wget,jq工具")
 			fmt.Println("curl -o (filepath) url 使用curl指定安装go,gcc/g++,cmake")
 			return
@@ -32,7 +32,7 @@ func Windwos() {
 
 		}
 	} else {
-		tool := []string{"curl", "jq", "wget"}
+		tool := []string{"curl", "jq", "wget", "wsl"}
 		// 使用winget可以安装的命令
 		for _, vaule := range tool {
 			_, err := exec.LookPath(vaule)

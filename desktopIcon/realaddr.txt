@@ -1,0 +1,17 @@
+C:\Program Files\Docker\Docker\Docker Desktop.exe
+F:\program files(x86)\Postman\Postman.exe
+F:\Users\Artist\AppData\Local\Programs\Microsoft VS Code\Code.exe
+F:\program files(x86)\Tencent\WeChat\WeChat.exe
+F:\program files(x86)\Network accelerator\bj_1000\bj_1000\Whale.exe
+C:\Users\Artist\AppData\Local\Programs\yakit\Yakit.exe
+F:\program files(x86)\阿里云盘\aDrive\aDrive.exe
+F:\program files(x86)\百度网盘\BaiduNetdisk\baidunetdisk.exe
+F:\program files(x86)\网易云\CloudMusic\cloudmusic.exe
+F:\program files(x86)\Network accelerator\LeiGod_Acc\leigod.exe
+F:\program files(x86)\Kingsoft\WPS Office\11.1.0.13703\office6\wps.exe
+F:\program files(x86)\夜神模拟器\Nox\bin\Nox.exe
+F:\program files(x86)\夜神模拟器\Nox\bin\MultiPlayerManager.exe
+E:\GAME\Red Dead Redemption 2\RDR2.exe
+F:\program files(x86)\Thunder Network\Thunder\Program\ThunderStart.exe
+F:\program files(x86)\xiaoyao\Microvirt\MEmu\MEmuConsole.exe
+F:\program files(x86)\xiaoyao\Microvirt\MEmu\MEmu.exe
