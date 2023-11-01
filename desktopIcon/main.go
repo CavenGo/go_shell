@@ -9,7 +9,8 @@ import (
 )
 
 func main() {
-
+	a, _ := ReadLnk()
+	fmt.Println(a)
 }
 
 // $shell = New-Object -ComObject WScript.Shell
